@@ -107,6 +107,10 @@ footer {
     margin-bottom: 0.5em;
 }
 
+.right-section p:nth-of-type(3) {
+    visibility: hidden;
+}
+
 .logos {
     display: flex;
     justify-content: end;
